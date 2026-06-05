@@ -8,7 +8,7 @@ An autonomous multi-agent research system built with LangGraph, RAG, ChromaDB, S
 
 ## Overview
 
-ResearchPilot v1 is the first working version of an autonomous multi-agent research assistant built using LangGraph, ChromaDB, SQLite, and Streamlit.
+ResearchPilot v1 is the first working version of an autonomous multi-agent research assistant (now called - Poneglyph) built using LangGraph, ChromaDB, SQLite, and Streamlit.
 
 This version was developed as a learning project to understand:
 
@@ -155,3 +155,6 @@ All future work continues in ResearchPilot v2.
 Created by Tagore Nandan
 
 ResearchPilot v1 Archive
+
+
+V2 is named Poneglyph which was further deployed into a live project
